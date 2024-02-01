@@ -1,4 +1,4 @@
-# rustling 🦀
+# rustlings 🦀
 
 Solutions for V5.6.1
 
@@ -74,3 +74,7 @@ To check your progress, you can run the following command:
 ```bash
 rustlings list
 ```
+
+## Exercices
+
+[rustlings](https://github.com/rust-lang/rustlings)
